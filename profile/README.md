@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Empire Rising SDK
+## Empire Rising SDK
 
 Please use this for your own development of worlds within the face of mankind universe.
 
